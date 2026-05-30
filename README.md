@@ -10,7 +10,6 @@
 </p>
 
 ## Sobre Mim
-<hr>
 
 * 🎓 Análise e Desenvolvimento de Sistemas / System Analysis and Development Student
 * 💻 Full Stack Developer
@@ -19,7 +18,6 @@
 <br>
 
 ## 🛠️ Tecnologias e Ferramentas
-<hr>
 
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40" align="middle"/> </a> 
