@@ -43,4 +43,11 @@
 
 ## 🛠️ Ferramentas & UI/UX / Tools & UI/UX
 <p align="left"> 
-<a href="https://postman.com" target="_
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/insomnia/insomnia-icon.svg" alt="insomnia" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Insomnia</b></font><br><br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Figma</b></font>
+</p>
+
+## 🗣️ Idiomas / Languages
+**Inglês:** Avançado / Advanced
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusirineu&show_icons=true&locale=en&layout=compact" alt="mateusirineu" /></p>
