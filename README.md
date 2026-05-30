@@ -4,8 +4,6 @@
 * 💻 Full Stack Developer
 </p>
 
-## 🛠️ Ferramentas & UI/UX / Tools & UI/UX
-
 ## ⚙️ Backend / Backend
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Node.js</b></font><br><br>
@@ -45,11 +43,9 @@
 
 ## 🛠️ Ferramentas & UI/UX / Tools & UI/UX
 <p align="left"> 
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/insomnia.svg" alt="insomnia" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Insomnia</b></font><br><br>
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="[https://cdn.simpleicons.org/insomnia.svg](https://cdn.simpleicons.org/insomnia/5849BE)" alt="insomnia" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Insomnia</b></font><br><br>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Figma</b></font>
 </p>
 
 ## 🌐 Idiomas / Languages
 **Inglês:** Avançado / Advanced
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusirineu&show_icons=true&locale=en&layout=compact" alt="mateusirineu" /></p>
