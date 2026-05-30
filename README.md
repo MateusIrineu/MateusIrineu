@@ -13,7 +13,7 @@
 
 * 🎓 Análise e Desenvolvimento de Sistemas / System Analysis and Development Student
 * 💻 Full Stack Developer
-* 🌐 **Idiomas:** Inglês Avançado / Advanced
+* 🌐 Inglês: Avançado / English: Advanced
 
 <br>
 
