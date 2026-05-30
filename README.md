@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Mateus Irineu</h1>
 
 * 🎓 Análise e Desenvolvimento de Sistema / System Analysis and Development Student
-* 💻 Full Stack Developer
+* 💻 Full Stack Developer / Desenvolvedor Full Stack
+* 🌐 Inglês: Avançado / Advanced
 </p>
 
 ## ⚙️ Backend / Backend
@@ -45,6 +46,3 @@
 <p align="left"> 
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/insomnia/5849BE" alt="insomnia" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Insomnia</b></font><br><br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" align="middle"/> </a> <font size="4"><b>&nbsp;&nbsp;Figma</b></font>
 </p>
-
-## 🌐 Idiomas / Languages
-**Inglês:** Avançado / Advanced
