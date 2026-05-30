@@ -1,9 +1,5 @@
 <h1>Hi 👋, I'm Mateus Irineu</h1>
 
-* 🎓 System Analysis and Development Student & B.Sc. in Physics @UFRN
-* 💻 Backend Developer | Java & Spring Boot | Python & Django
-* 🧩 Strong foundation in logic, mathematics, and analytical problem-solving
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusirineu" alt="mateusirineu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
