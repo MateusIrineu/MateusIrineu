@@ -4,8 +4,6 @@
 <p align="left">
 </p>
 
----
-
 ## 🛠️ Habilidades Técnicas / Technical Skills
 
 ### 🌐 Frontend
