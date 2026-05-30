@@ -11,7 +11,7 @@
 
 ## Sobre Mim
 
-* 🎓 Análise e Desenvolvimento de Sistemas / System Analysis and Development Student
+* 🎓 Análise e Desenvolvimento de Sistemas / System Analysis and Development Student (IFRN / SENAC)
 * 💻 Full Stack Developer / Desenvolvedor Full Stack
 * 🌐 Inglês: Avançado / English: Advanced
 
