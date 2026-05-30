@@ -12,7 +12,7 @@
 ## Sobre Mim
 
 * 🎓 Análise e Desenvolvimento de Sistemas / System Analysis and Development Student
-* 💻 Full Stack Developer
+* 💻 Full Stack Developer / Desenvolvedor Full Stack
 * 🌐 Inglês: Avançado / English: Advanced
 
 <br>
