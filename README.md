@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## Sobre Mim
+## Sobre Mim / About me
 
 * 🎓 Análise e Desenvolvimento de Sistemas / System Analysis and Development Student (IFRN / SENAC)
 * 💻 Full Stack Developer / Desenvolvedor Full Stack
@@ -17,11 +17,13 @@
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas / Technologies and Tools
 
 <p align="left"> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" align="middle"/> </a> 
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" align="middle"/> </a> 
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" align="middle"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="40" height="40" align="middle"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/express/white" alt="Express.js" title="Express.js" width="40" height="40" align="middle"/> </a> 
